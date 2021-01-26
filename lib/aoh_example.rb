@@ -43,5 +43,4 @@ def aoh_update(aoh, row, key, new_value)
 { name:  "Kate Gompert", occupation: "None" },
 { name:  "Bruce Green", occupation: "Fan of Mildred" }]
 results[1] {:name = "Joelle van Dyne (PGOAT)"}
-results
 end
