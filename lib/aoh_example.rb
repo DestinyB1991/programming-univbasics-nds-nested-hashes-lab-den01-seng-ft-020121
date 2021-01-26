@@ -30,7 +30,7 @@ def aoh_lookup(aoh, row, key)
 { name:  "Pat Monteseian", occupation: "Staff" },
 { name:  "Kate Gompert", occupation: "None" },
 { name:  "Bruce Green", occupation: "Fan of Mildred" }]
-  results[0][occupation]
+  results[0][:occupation]
 end
 
 def aoh_update(aoh, row, key, new_value)
